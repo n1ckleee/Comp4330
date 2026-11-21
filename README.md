@@ -1,5 +1,8 @@
 # COMP4330SEF — P01 Group 9
 
+> **GitHub upload status (2026-11-21):** This public repository currently contains the README and .gitignore only. The file inventory below describes the complete local project archive, **not files already uploaded to GitHub**. Data, model weights, source code, and deliverables still require transfer.
+
+
 ## 已完成的内容
 - YOLOv8n / YOLOv8s 基线，验证集选择模型；180/60/60 张训练、验证、测试图像。
 - 小样本微调、验证集置信度调节、原图/人工变暗/模糊共 9 组测试。
