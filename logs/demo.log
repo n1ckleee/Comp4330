@@ -1,0 +1,155 @@
+{
+  "source": "OpenCV samples/data/vtest.avi",
+  "model": "yolov8s",
+  "threshold": 0.3,
+  "n_labelled_frames": 24,
+  "roi_normalized": [
+    [
+      0.55,
+      0.42
+    ],
+    [
+      0.97,
+      0.46
+    ],
+    [
+      0.99,
+      0.76
+    ],
+    [
+      0.64,
+      0.64
+    ]
+  ],
+  "tp": 19,
+  "fp": 0,
+  "fn": 0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1": 1.0,
+  "tn": 5,
+  "accuracy": 1.0,
+  "frames": [
+    {
+      "frame": 0,
+      "expected": true,
+      "predicted": true
+    },
+    {
+      "frame": 34,
+      "expected": true,
+      "predicted": true
+    },
+    {
+      "frame": 69,
+      "expected": true,
+      "predicted": true
+    },
+    {
+      "frame": 103,
+      "expected": false,
+      "predicted": false
+    },
+    {
+      "frame": 138,
+      "expected": true,
+      "predicted": true
+    },
+    {
+      "frame": 172,
+      "expected": true,
+      "predicted": true
+    },
+    {
+      "frame": 207,
+      "expected": true,
+      "predicted": true
+    },
+    {
+      "frame": 241,
+      "expected": true,
+      "predicted": true
+    },
+    {
+      "frame": 276,
+      "expected": false,
+      "predicted": false
+    },
+    {
+      "frame": 310,
+      "expected": false,
+      "predicted": false
+    },
+    {
+      "frame": 345,
+      "expected": true,
+      "predicted": true
+    },
+    {
+      "frame": 379,
+      "expected": true,
+      "predicted": true
+    },
+    {
+      "frame": 414,
+      "expected": false,
+      "predicted": false
+    },
+    {
+      "frame": 448,
+      "expected": true,
+      "predicted": true
+    },
+    {
+      "frame": 483,
+      "expected": true,
+      "predicted": true
+    },
+    {
+      "frame": 517,
+      "expected": true,
+      "predicted": true
+    },
+    {
+      "frame": 552,
+      "expected": true,
+      "predicted": true
+    },
+    {
+      "frame": 586,
+      "expected": true,
+      "predicted": true
+    },
+    {
+      "frame": 621,
+      "expected": true,
+      "predicted": true
+    },
+    {
+      "frame": 655,
+      "expected": true,
+      "predicted": true
+    },
+    {
+      "frame": 690,
+      "expected": false,
+      "predicted": false
+    },
+    {
+      "frame": 724,
+      "expected": true,
+      "predicted": true
+    },
+    {
+      "frame": 759,
+      "expected": true,
+      "predicted": true
+    },
+    {
+      "frame": 794,
+      "expected": true,
+      "predicted": true
+    }
+  ],
+  "note": "One public camera, illustrative zone, manual binary labels. Correlated frames; not independent safety incidents."
+}

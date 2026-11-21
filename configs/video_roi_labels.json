@@ -1,0 +1,53 @@
+{
+  "source": "OpenCV samples/data/vtest.avi",
+  "roi_normalized": [
+    [
+      0.55,
+      0.42
+    ],
+    [
+      0.97,
+      0.46
+    ],
+    [
+      0.99,
+      0.76
+    ],
+    [
+      0.64,
+      0.64
+    ]
+  ],
+  "label_rule": "At least one person with visible ground-contact point inside or on the polygon boundary",
+  "annotation_method": "Single assistant visual review of frames with ROI only, before model predictions; group should independently review boundary cases",
+  "frames": {
+    "0": true,
+    "34": true,
+    "69": true,
+    "103": false,
+    "138": true,
+    "172": true,
+    "207": true,
+    "241": true,
+    "276": false,
+    "310": false,
+    "345": true,
+    "379": true,
+    "414": false,
+    "448": true,
+    "483": true,
+    "517": true,
+    "552": true,
+    "586": true,
+    "621": true,
+    "655": true,
+    "690": false,
+    "724": true,
+    "759": true,
+    "794": true
+  },
+  "boundary_notes": {
+    "276": "Ground-contact point left of sloping ROI edge",
+    "310": "Feet just above upper ROI edge"
+  }
+}

@@ -1,0 +1,38 @@
+downloaded 25 / 300
+downloaded 50 / 300
+downloaded 75 / 300
+downloaded 100 / 300
+downloaded 125 / 300
+downloaded 150 / 300
+downloaded 175 / 300
+downloaded 200 / 300
+downloaded 225 / 300
+downloaded 250 / 300
+downloaded 275 / 300
+downloaded 300 / 300
+{
+  "train": {
+    "person": 688,
+    "bicycle": 90,
+    "car": 288,
+    "motorcycle": 76,
+    "bus": 61,
+    "truck": 92
+  },
+  "val": {
+    "person": 271,
+    "bicycle": 17,
+    "car": 88,
+    "motorcycle": 48,
+    "bus": 17,
+    "truck": 30
+  },
+  "test": {
+    "person": 275,
+    "bicycle": 44,
+    "car": 137,
+    "motorcycle": 41,
+    "bus": 19,
+    "truck": 30
+  }
+}

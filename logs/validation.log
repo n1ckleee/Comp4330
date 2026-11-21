@@ -1,0 +1,9 @@
+YOLOv8n summary (fused): 72 layers, 3,151,904 parameters, 0 gradients, 8.7 GFLOPs
+yolov8n_val original 20 / 60
+yolov8n_val original 40 / 60
+yolov8n_val original 60 / 60
+YOLOv8s summary (fused): 72 layers, 11,156,544 parameters, 0 gradients, 28.6 GFLOPs
+yolov8s_val original 20 / 60
+yolov8s_val original 40 / 60
+yolov8s_val original 60 / 60
+SELECTED yolov8s

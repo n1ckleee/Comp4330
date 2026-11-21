@@ -1,0 +1,23 @@
+test_concave_polygon (test_core.CoreTests.test_concave_polygon) ... ok
+test_duplicate_detection (test_core.CoreTests.test_duplicate_detection) ... ok
+test_empty_detection (test_core.CoreTests.test_empty_detection) ... ok
+test_iou_disjoint (test_core.CoreTests.test_iou_disjoint) ... ok
+test_iou_identity (test_core.CoreTests.test_iou_identity) ... ok
+test_iou_partial (test_core.CoreTests.test_iou_partial) ... ok
+test_person_threshold_and_bottom_center (test_core.CoreTests.test_person_threshold_and_bottom_center) ... ok
+test_polygon (test_core.CoreTests.test_polygon) ... ok
+test_rates (test_core.CoreTests.test_rates) ... ok
+test_wrong_class (test_core.CoreTests.test_wrong_class) ... ok
+test_disjoint_splits (test_data.DataTests.test_disjoint_splits) ... ok
+test_each_class_present (test_data.DataTests.test_each_class_present) ... ok
+test_image_hashes (test_data.DataTests.test_image_hashes) ... ok
+test_labels (test_data.DataTests.test_labels) ... ok
+test_unique_content (test_data.DataTests.test_unique_content) ... ok
+test_empty_coco_ap (test_metrics.MetricTests.test_empty_coco_ap) ... ok
+test_perfect_coco_ap (test_metrics.MetricTests.test_perfect_coco_ap) ... ok
+test_wrong_class_coco_ap (test_metrics.MetricTests.test_wrong_class_coco_ap) ... ok
+
+----------------------------------------------------------------------
+Ran 18 tests in 0.076s
+
+OK
