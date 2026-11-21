@@ -1,6 +1,6 @@
 # COMP4330SEF — P01 Group 9
 
-> **GitHub upload status (2026-11-21):** This public repository currently contains the README and .gitignore only. The file inventory below describes the complete local project archive, **not files already uploaded to GitHub**. Data, model weights, source code, and deliverables still require transfer.
+> **GitHub upload status (2026-11-21):** Partial upload: README, .gitignore, requirements.txt, src/core.py, src/restore_data.py, and tests/test_core.py are published. The remaining source files, datasets, model weights, experiment records, and presentation assets have **not yet been uploaded**. The inventory below describes the full project archive, not the GitHub contents.
 
 
 ## 已完成的内容
